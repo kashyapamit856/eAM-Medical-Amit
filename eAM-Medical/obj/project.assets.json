@@ -6332,25 +6332,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AMIT - PC\\.nuget\\packages\\": {},
+    "C:\\Users\\vivek\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects\\eAM-Medical\\eAM-Medical\\eAM-Medical.csproj",
+      "projectUniqueName": "F:\\Amit-Projects\\eAM-Medical-Amit\\eAM-Medical\\eAM-Medical.csproj",
       "projectName": "eAM-Medical",
-      "projectPath": "F:\\Projects\\eAM-Medical\\eAM-Medical\\eAM-Medical.csproj",
-      "packagesPath": "C:\\Users\\AMIT - PC\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects\\eAM-Medical\\eAM-Medical\\obj\\",
+      "projectPath": "F:\\Amit-Projects\\eAM-Medical-Amit\\eAM-Medical\\eAM-Medical.csproj",
+      "packagesPath": "C:\\Users\\vivek\\.nuget\\packages\\",
+      "outputPath": "F:\\Amit-Projects\\eAM-Medical-Amit\\eAM-Medical\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\AMIT - PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vivek\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -6405,7 +6405,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }
