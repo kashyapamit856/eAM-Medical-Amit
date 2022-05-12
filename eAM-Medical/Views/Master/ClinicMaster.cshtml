@@ -1,0 +1,142 @@
+﻿@{
+	ViewData["Title"] = "ClinicMaster";
+	Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<!-- BEGIN: Content-->
+<div class="app-content content ">
+ <div class="content-overlay"></div>
+ <div class="header-navbar-shadow"></div>
+ <div class="content-wrapper container-xxl p-0">
+  <div class="content-header row">
+   <div class="content-header-left col-md-9 col-12 mb-2">
+	<div class="row breadcrumbs-top">
+	 <div class="col-12">
+	  <h2 class="content-header-title float-start mb-0">Clinic Master </h2>
+	  <div class="breadcrumb-wrapper">
+	   <ol class="breadcrumb">
+		<li class="breadcrumb-item">
+		 <a href="#">Master</a>
+		</li>
+		<li class="breadcrumb-item">
+		 <a href="#">Clinic Master</a>
+		</li>
+
+	   </ol>
+	  </div>
+	 </div>
+	</div>
+   </div>
+
+  </div>
+  <div class="content-body">
+   <!-- Basic Inputs start -->
+   <section id="basic-input">
+	<div class="row">
+	 <div class="col-md-12">
+	  <div class="card">
+
+	   <div class="card-body">
+		<div class="row">
+		 <div class="col-xl-4 col-md-6 col-12">
+		  <div class="mb-1">
+		   <label class="form-label">Name of Clinic</label>
+		   <div class="input-box">
+			<input type="text" class="form-control" placeholder="" />
+			<div class="input-msg"></div>
+		   </div>
+		  </div>
+		 </div>
+		 <div class="col-xl-8 col-md-6 col-12">
+		  <div class="mb-1">
+		   <label class="form-label">Address</label>
+		   <div class="input-box">
+			<input type="text" class="form-control" placeholder="" />
+			<div class="input-msg"></div>
+		   </div>
+		  </div>
+		 </div>
+		 <div class="col-xl-4 col-md-6 col-12">
+		  <div class="mb-1">
+		   <label class="form-label">Tag Line</label>
+		   <div class="input-box">
+			<input type="text" class="form-control" placeholder="" />
+			<div class="input-msg"></div>
+		   </div>
+		  </div>
+		 </div>
+		 <div class="col-xl-4 col-md-6 col-12">
+		  <div class="mb-1">
+		   <label class="form-label">Registration ID</label>
+		   <div class="input-box">
+			<input type="text" class="form-control" placeholder="" />
+			<div class="input-msg"></div>
+		   </div>
+		  </div>
+		 </div>
+		 <div class="col-xl-4 col-md-6 col-12">
+		  <div class="mb-1">
+		   <label class="form-label">Name of Owner </label>
+		   <div class="input-box">
+			<input type="text" class="form-control" placeholder="" />
+			<div class="input-msg"></div>
+		   </div>
+		  </div>
+		 </div>
+		 <div class="col-xl-4 col-md-6 col-12">
+		  <div class="mb-1">
+		   <label class="form-label">Contact No.</label>
+		   <div class="input-box">
+			<input type="text" class="form-control" placeholder="" />
+			<div class="input-msg"></div>
+		   </div>
+		  </div>
+		 </div>
+		 <div class="col-xl-4 col-md-6 col-12">
+		  <div class="mb-1">
+		   <label class="form-label">Email ID</label>
+		   <div class="input-box">
+			<input type="text" class="form-control" placeholder="" />
+			<div class="input-msg"></div>
+		   </div>
+		  </div>
+		 </div>
+		 <div class="col-xl-4 col-md-6 col-12">
+		  <div class="mb-1">
+		   <label class="form-label">Website</label>
+		   <div class="input-box">
+			<input type="text" class="form-control" placeholder="" />
+			<div class="input-msg"></div>
+		   </div>
+		  </div>
+		 </div>
+		 <div class="col-xl-4 col-md-6 col-12">
+		  <div class="mb-1">
+		   <label class="form-label">Logo</label>
+		   <div class="input-box">
+			<input type="file" class="form-control" placeholder="" />
+			<div class="input-msg"></div>
+		   </div>
+		  </div>
+		 </div>
+
+		 <div class="col-xl-12 col-md-12 col-12">
+										@Html.Partial("ActionView")
+		 </div>
+
+		 <div class="col-xl-12 col-md-12 col-12">
+										@Html.Partial("SearchData")
+		 </div>
+		</div>
+	   </div>
+	  </div>
+	 </div>
+	</div>
+   </section>
+   <!-- Basic Inputs end -->
+
+
+  </div>
+ </div>
+</div>
+<!-- END: Content-->
