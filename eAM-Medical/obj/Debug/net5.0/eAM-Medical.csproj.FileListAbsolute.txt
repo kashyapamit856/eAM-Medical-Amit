@@ -1628,3 +1628,4 @@ F:\Projects\eAM-Medical-Amit\eAM-Medical\obj\Debug\net5.0\ref\eAM-Medical.dll
 F:\Projects\eAM-Medical-Amit\eAM-Medical\obj\Debug\net5.0\eAM-Medical.pdb
 F:\Projects\eAM-Medical-Amit\eAM-Medical\obj\Debug\net5.0\eAM-Medical.genruntimeconfig.cache
 F:\Projects\eAM-Medical-Amit\eAM-Medical\obj\Debug\net5.0\Razor\Views\Master\BranchMaster.cshtml.g.cs
+F:\Amit-Projects\eAM-Medical-Amit\eAM-Medical\obj\Debug\net5.0\Razor\Views\Master\BranchMaster.cshtml.g.cs
