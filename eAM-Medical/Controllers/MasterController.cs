@@ -12,5 +12,9 @@ namespace eAM_Medical.Controllers
         {
             return View();
         }
+        public IActionResult BranchMaster()
+        {
+            return View();
+        }
     }
 }
