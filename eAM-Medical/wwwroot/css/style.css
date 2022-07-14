@@ -12,10 +12,11 @@ WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BET
 
 
 .form-label {
-	margin-bottom: 0.2857rem;
+	margin-bottom: 3px;
 	font-size: .857rem;
 	color: #5E5873;
 	font-weight: 600;
+	line-height: normal;
 }
 .input-box {
 	position: relative;
@@ -27,4 +28,16 @@ WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BET
 }
 .container-xxl {
 	max-width: 100%;
+}
+.form-control, .form-select {
+	height: 38px;
+}
+.input-box .input-msg, .input-box .invalid-feedback, .input-box .valid-feedback {
+	line-height: normal;
+	margin-top: 2px;
+	position: absolute;
+}
+.no-padding
+{
+	padding:0px 0px;
 }

@@ -23,6 +23,8 @@
     <link rel="stylesheet" type="text/css" href="@Url.Content("~/vendors/css/tables/datatable/buttons.bootstrap5.min.css")">
     <link rel="stylesheet" type="text/css" href="@Url.Content("~/vendors/css/tables/datatable/rowGroup.bootstrap5.min.css")">
     <link rel="stylesheet" type="text/css" href="@Url.Content("~/vendors/css/pickers/flatpickr/flatpickr.min.css")">
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/vendors/css/animate/animate.min.css")">
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/vendors/css/extensions/sweetalert2.min.css")">
 
     <!-- END: Vendor CSS-->
     <!-- BEGIN: Theme CSS-->
@@ -41,7 +43,7 @@
     <link rel="stylesheet" type="text/css" href="@Url.Content("~/css/plugins/extensions/ext-component-toastr.min.css")">
     <link rel="stylesheet" type="text/css" href="@Url.Content("~/css/plugins/forms/form-validation.css")">
     <link rel="stylesheet" type="text/css" href="@Url.Content("~/css/plugins/forms/pickers/form-flat-pickr.min.css")">
- 
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/css/plugins/extensions/ext-component-sweet-alerts.min.css")">
 
     <!-- END: Page CSS-->
     @RenderSection("PageWiseStyleSheet", required: false)
@@ -503,7 +505,8 @@
     <script src="@Url.Content("~/vendors/js/tables/datatable/buttons.html5.min.js")"></script>
     <script src="@Url.Content("~/vendors/js/tables/datatable/buttons.print.min.js")"></script>
     @*<script src="@Url.Content("~/vendors/js/tables/datatable/dataTables.rowGroup.min.js")"></script>*@
-    <script src="@Url.Content("~/vendors/js/pickers/flatpickr/flatpickr.min.js")"></script>
+    <script src="@Url.Content("~/vendors/js/extensions/sweetalert2.all.min.js")"></script>
+    <script src="@Url.Content("~/vendors/js/extensions/polyfill.min.js")"></script>
     <!-- END: Page Vendor JS-->
     <!-- BEGIN: Theme JS-->
     <script src="@Url.Content("~/js/core/app-menu.min.js")"></script>
@@ -512,8 +515,9 @@
     <!-- END: Theme JS-->
     <!-- BEGIN: Page JS-->
     <script src="@Url.Content("~/js/scripts/forms/form-select2.min.js")"></script>
-    <script src="@Url.Content("~/js/scripts/pages/page-blog-edit.min.js")"></script>
-    <script src="@Url.Content("~/js/scripts/forms/form-validation.js")"></script>
+    <script src="@Url.Content("~/js/scripts/extensions/ext-component-sweet-alerts.min.js")"></script>
+    @*<script src="@Url.Content("~/js/scripts/pages/page-blog-edit.min.js")"></script>*@
+    @*<script src="@Url.Content("~/js/scripts/forms/form-validation.js")"></script>*@
     <!-- END: Page JS-->
 
     @RenderSection("PageWiseFooterScripts", required: false)
