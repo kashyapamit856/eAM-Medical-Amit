@@ -1,0 +1,15 @@
+C:\Users\my pc\Source\Repos\eAM-Medical\eAM-Medical.Api.Data\bin\Debug\net5.0\eAM-Medical.Api.Data.deps.json
+C:\Users\my pc\Source\Repos\eAM-Medical\eAM-Medical.Api.Data\bin\Debug\net5.0\eAM-Medical.Api.Data.runtimeconfig.json
+C:\Users\my pc\Source\Repos\eAM-Medical\eAM-Medical.Api.Data\bin\Debug\net5.0\eAM-Medical.Api.Data.runtimeconfig.dev.json
+C:\Users\my pc\Source\Repos\eAM-Medical\eAM-Medical.Api.Data\bin\Debug\net5.0\eAM-Medical.Api.Data.dll
+C:\Users\my pc\Source\Repos\eAM-Medical\eAM-Medical.Api.Data\bin\Debug\net5.0\ref\eAM-Medical.Api.Data.dll
+C:\Users\my pc\Source\Repos\eAM-Medical\eAM-Medical.Api.Data\bin\Debug\net5.0\eAM-Medical.Api.Data.pdb
+C:\Users\my pc\Source\Repos\eAM-Medical\eAM-Medical.Api.Data\obj\Debug\net5.0\eAM-Medical.Api.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\Source\Repos\eAM-Medical\eAM-Medical.Api.Data\obj\Debug\net5.0\eAM-Medical.Api.Data.AssemblyInfoInputs.cache
+C:\Users\my pc\Source\Repos\eAM-Medical\eAM-Medical.Api.Data\obj\Debug\net5.0\eAM-Medical.Api.Data.AssemblyInfo.cs
+C:\Users\my pc\Source\Repos\eAM-Medical\eAM-Medical.Api.Data\obj\Debug\net5.0\eAM-Medical.Api.Data.csproj.CoreCompileInputs.cache
+C:\Users\my pc\Source\Repos\eAM-Medical\eAM-Medical.Api.Data\obj\Debug\net5.0\eAM-Medical.Api.Data.dll
+C:\Users\my pc\Source\Repos\eAM-Medical\eAM-Medical.Api.Data\obj\Debug\net5.0\ref\eAM-Medical.Api.Data.dll
+C:\Users\my pc\Source\Repos\eAM-Medical\eAM-Medical.Api.Data\obj\Debug\net5.0\eAM-Medical.Api.Data.pdb
+C:\Users\my pc\Source\Repos\eAM-Medical\eAM-Medical.Api.Data\obj\Debug\net5.0\eAM-Medical.Api.Data.genruntimeconfig.cache
+C:\Users\my pc\Source\Repos\eAM-Medical\eAM-Medical.Api.Data\obj\Debug\net5.0\eAM-Medical.Api.Data.csproj.AssemblyReference.cache

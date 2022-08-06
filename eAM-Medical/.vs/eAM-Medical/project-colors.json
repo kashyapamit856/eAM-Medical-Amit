@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6847649-70b8-4701-a73e-c7d70e662cea": {
+      "ProjectGuid": "e6847649-70b8-4701-a73e-c7d70e662cea",
+      "DisplayName": "eAM-Medical",
+      "ColorIndex": 0
+    },
+    "960b993b-ab2f-43b6-a726-64af6fa349cf": {
+      "ProjectGuid": "960b993b-ab2f-43b6-a726-64af6fa349cf",
+      "DisplayName": "eAM-Medical.Data",
+      "ColorIndex": 1
+    },
+    "93cc9546-bb3c-4d3b-a330-5a7f084fc405": {
+      "ProjectGuid": "93cc9546-bb3c-4d3b-a330-5a7f084fc405",
+      "DisplayName": "eAM_Medical.BL",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

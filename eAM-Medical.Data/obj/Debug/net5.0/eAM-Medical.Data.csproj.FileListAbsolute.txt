@@ -1,0 +1,15 @@
+C:\Vikas\Development\eAM-Medical-Amit\eAM-Medical.Data\bin\Debug\net5.0\eAM-Medical.Data.deps.json
+C:\Vikas\Development\eAM-Medical-Amit\eAM-Medical.Data\bin\Debug\net5.0\eAM-Medical.Data.runtimeconfig.json
+C:\Vikas\Development\eAM-Medical-Amit\eAM-Medical.Data\bin\Debug\net5.0\eAM-Medical.Data.runtimeconfig.dev.json
+C:\Vikas\Development\eAM-Medical-Amit\eAM-Medical.Data\bin\Debug\net5.0\eAM-Medical.Data.dll
+C:\Vikas\Development\eAM-Medical-Amit\eAM-Medical.Data\bin\Debug\net5.0\ref\eAM-Medical.Data.dll
+C:\Vikas\Development\eAM-Medical-Amit\eAM-Medical.Data\bin\Debug\net5.0\eAM-Medical.Data.pdb
+C:\Vikas\Development\eAM-Medical-Amit\eAM-Medical.Data\obj\Debug\net5.0\eAM-Medical.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vikas\Development\eAM-Medical-Amit\eAM-Medical.Data\obj\Debug\net5.0\eAM-Medical.Data.AssemblyInfoInputs.cache
+C:\Vikas\Development\eAM-Medical-Amit\eAM-Medical.Data\obj\Debug\net5.0\eAM-Medical.Data.AssemblyInfo.cs
+C:\Vikas\Development\eAM-Medical-Amit\eAM-Medical.Data\obj\Debug\net5.0\eAM-Medical.Data.csproj.CoreCompileInputs.cache
+C:\Vikas\Development\eAM-Medical-Amit\eAM-Medical.Data\obj\Debug\net5.0\eAM-Medical.Data.dll
+C:\Vikas\Development\eAM-Medical-Amit\eAM-Medical.Data\obj\Debug\net5.0\ref\eAM-Medical.Data.dll
+C:\Vikas\Development\eAM-Medical-Amit\eAM-Medical.Data\obj\Debug\net5.0\eAM-Medical.Data.pdb
+C:\Vikas\Development\eAM-Medical-Amit\eAM-Medical.Data\obj\Debug\net5.0\eAM-Medical.Data.genruntimeconfig.cache
+C:\Vikas\Development\eAM-Medical-Amit\eAM-Medical.Data\obj\Debug\net5.0\eAM-Medical.Data.csproj.AssemblyReference.cache

@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32126.315
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eAM-Medical", "eAM-Medical.csproj", "{E6847649-70B8-4701-A73E-C7D70E662CEA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eAM-Medical.Data", "..\eAM-Medical.Data\eAM-Medical.Data.csproj", "{960B993B-AB2F-43B6-A726-64AF6FA349CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eAM_Medical.BL", "..\eAM_Medical.BL\eAM_Medical.BL.csproj", "{93CC9546-BB3C-4D3B-A330-5A7F084FC405}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{E6847649-70B8-4701-A73E-C7D70E662CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6847649-70B8-4701-A73E-C7D70E662CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6847649-70B8-4701-A73E-C7D70E662CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{960B993B-AB2F-43B6-A726-64AF6FA349CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960B993B-AB2F-43B6-A726-64AF6FA349CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960B993B-AB2F-43B6-A726-64AF6FA349CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960B993B-AB2F-43B6-A726-64AF6FA349CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93CC9546-BB3C-4D3B-A330-5A7F084FC405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CC9546-BB3C-4D3B-A330-5A7F084FC405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CC9546-BB3C-4D3B-A330-5A7F084FC405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CC9546-BB3C-4D3B-A330-5A7F084FC405}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
